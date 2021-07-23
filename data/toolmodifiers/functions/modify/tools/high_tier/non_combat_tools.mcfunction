@@ -47,11 +47,9 @@ execute if score out math matches 30..31 run item modify entity @s weapon.mainha
 execute if score out math matches 30..31 run item modify entity @s weapon.mainhand toolmodifiers:haste_effect
 
 execute if score out math matches 32..33 run item modify entity @s weapon.mainhand toolmodifiers:max_health_huge_neg
-execute if score out math matches 32..33 run item modify entity @s weapon.mainhand toolmodifiers:attack_speed_large_neg
 execute if score out math matches 32..33 run item modify entity @s weapon.mainhand toolmodifiers:attack_damage_large
 
 execute if score out math matches 34..35 run item modify entity @s weapon.mainhand toolmodifiers:max_health_huge
-execute if score out math matches 34..35 run item modify entity @s weapon.mainhand toolmodifiers:attack_speed_large_neg
 execute if score out math matches 34..35 run item modify entity @s weapon.mainhand toolmodifiers:attack_damage_large_neg
 
 # Negative modifiers
