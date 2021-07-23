@@ -1,0 +1,11 @@
+{
+	"condition": "minecraft:entity_properties",
+	"entity": "this",
+	"predicate": {
+		"equipment": {
+			"mainhand": {
+				"tag": "toolmodifiers:axes_low_tier"
+			}
+		}
+	}
+}

@@ -1,0 +1,16 @@
+[
+    {
+      "function": "minecraft:set_nbt",
+      "tag": "{attack_speed_large_neg:1b}"
+    },
+    {
+      "function": "minecraft:set_lore",
+      "lore": [
+        {
+          "text": "-0.4 Attack Speed",
+          "color": "red",
+          "italic": false
+        }
+      ]
+    }
+]

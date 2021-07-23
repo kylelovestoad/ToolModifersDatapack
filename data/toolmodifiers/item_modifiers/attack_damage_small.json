@@ -1,0 +1,16 @@
+[
+{
+  "function": "minecraft:set_nbt",
+  "tag": "{attack_damage_small:1b}"
+},
+{
+  "function": "minecraft:set_lore",
+  "lore": [
+    {
+      "text": "+0.5 Attack Damage",
+      "color": "blue",
+      "italic": false
+    }
+  ]
+}
+]

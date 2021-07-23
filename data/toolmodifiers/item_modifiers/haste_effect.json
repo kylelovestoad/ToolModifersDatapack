@@ -1,0 +1,18 @@
+[
+    {
+      "function": "minecraft:set_nbt",
+      "tag": "{haste:1b}"
+    },
+    {
+      "function": "minecraft:set_lore",
+      "lore": [
+        {
+          "text": "Gives a Haste I effect when holding in mainhand",
+          "color": "blue",
+          "italic": false
+        }
+      ]
+    }
+    
+]
+

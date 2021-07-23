@@ -1,0 +1,17 @@
+[
+    {
+      "function": "minecraft:set_nbt",
+      "tag": "{mining_fatigue:1b}"
+    },
+    {
+      "function": "minecraft:set_lore",
+      "lore": [
+        {
+          "text": "Gives a Mining Fatigue I effect when holding in mainhand",
+          "color": "red",
+          "italic": false
+        }
+      ]
+    }
+    
+]

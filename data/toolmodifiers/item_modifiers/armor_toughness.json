@@ -1,0 +1,16 @@
+[
+{
+  "function": "minecraft:set_nbt",
+  "tag": "{armor_toughness:1b}"
+},
+{
+  "function": "minecraft:set_lore",
+  "lore": [
+    {
+      "text": "+0.5 Armor Toughness",
+      "color": "blue",
+      "italic": false
+    }
+  ]
+}
+]

@@ -1,0 +1,10 @@
+{
+    "function": "minecraft:set_lore",
+    "lore": [
+      {
+        "text": "Modifiers:",
+        "color": "gray",
+        "italic": false
+      }
+    ]
+}

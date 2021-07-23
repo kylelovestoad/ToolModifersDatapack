@@ -1,0 +1,16 @@
+[
+  {
+    "function": "minecraft:set_nbt",
+    "tag": "{max_health_large:1b}"
+  },
+  {
+    "function": "minecraft:set_lore",
+    "lore": [
+      {
+        "text": "+2 Max Health",
+        "color": "blue",
+        "italic": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,11 @@
+{
+	"condition": "minecraft:entity_properties",
+	"entity": "this",
+	"predicate": {
+		"equipment": {
+			"mainhand": {
+				"tag": "toolmodifiers:non_combat_tools_low_tier"
+			}
+		}
+	}
+}

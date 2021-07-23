@@ -1,0 +1,16 @@
+[
+	{
+		"condition": "minecraft:alternative",
+		"terms": [
+			{
+				"condition": "minecraft:reference",
+				"name":"toolmodifiers:holding_armor_high_tier"
+			},
+			{
+				"condition": "minecraft:reference",
+				"name": "toolmodifiers:holding_armor_low_tier"
+
+			}
+		]
+	}
+]
